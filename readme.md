@@ -18,3 +18,5 @@ Este sitio web contiene lo siguiente
 [Buscador](https://www.google.com/?hl=es)
 
 `<h1> HOLA MUNDO </H1>`
+
+![capibara](assets/images/capibara.png)
