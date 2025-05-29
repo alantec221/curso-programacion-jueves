@@ -16,3 +16,5 @@ Este sitio web contiene lo siguiente
         * tienda online 
 
 [Buscador](https://www.google.com/?hl=es)
+
+`<h1> HOLA MUNDO </H1>`
