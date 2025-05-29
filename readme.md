@@ -15,4 +15,4 @@ Este sitio web contiene lo siguiente
         * sitio web informativo
         * tienda online 
 
-[Buscador] (https://www.google.com/?hl=es)s
+[Buscador] (https://www.google.com/?hl=es)
