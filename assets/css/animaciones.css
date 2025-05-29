@@ -1,0 +1,71 @@
+.car{
+    width: 200px;
+    height: 200px;
+    animation-name: car;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    position: relative;
+
+}
+@keyframes car {
+   /* from{background-color: blue;}
+    to{background-color: red;}*/
+
+    /*0%{background-color: blue;}
+    25%{background-color: blueviolet;}
+    50%{background-color: aqua;}
+    75%{background-color: brown;}
+    100%{background-color: red;}*/
+
+    
+    0%{ left: 0px; top: 0px;}
+    100%{ left: 600px; top: 0px;}
+
+
+
+}
+.car2{
+    width: 200px;
+    height: 200px;
+    animation-name: car2;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    position: relative;
+
+}
+@keyframes car2{
+    0%{ left: 0px; top: 0px;}
+    100%{ left: 700px; top: 0px;}
+
+}
+.car3{
+    width: 200px;
+    height: 200px;
+    animation-name: car3;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    position: relative;
+
+}
+@keyframes car3{
+    0%{ left: 0px; top: 0px;}
+    100%{ left: 800px; top: 0px;}
+
+}
+.car4{
+    width: 200px;
+    height: 200px;
+    animation-name: car4;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    position: relative;
+
+}
+@keyframes car4{
+    0%{ left: 0px; top: 0px;}
+    100%{ left: 900px; top: 0px;}
+
+}
+i{
+    font-size: 200px;
+}

@@ -1,0 +1,16 @@
+body{
+   background-color: forestgreen; 
+   color: whitesmoke;
+}
+
+h1{
+    font-size: 48px; /*tamaño de la fuente*/
+    color: brown;  /*color de la fuente*/
+    text-transform: uppercase; /*para cambiar de minisculas, mayusculas y la inicial en mayuscula*/
+}
+.subtitle{
+    color: blueviolet;
+    font-size: 60px;
+    font-weight: 800; /*grosor de la fuente*/
+    font-family: Georgia, 'Times New Roman', Times, serif;/*estilo de fuente*/
+}

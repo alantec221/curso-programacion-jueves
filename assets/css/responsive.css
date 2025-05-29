@@ -1,0 +1,67 @@
+@media (max-width:768px){
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .logo{
+        margin-bottom: 10px;
+        margin-right: 0;
+    }
+    nav{
+        width: 100%;
+    }
+    nav ul{
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+    }
+    nav li{
+        margin: 0;
+        width: 100%;
+        border-bottom: 1px solid var(--main-color);
+    }
+    nav li:last-child{
+        border-bottom: none;
+    }
+    nav a {
+        display: block;
+        padding: 15px;
+        border-radius: 0;
+        color: black;
+    }
+    .todo-sobre-el-capibara{
+    display: grid;
+    grid-template-columns: auto;
+    padding-top: 30px;
+    background-color:var(--main-color)
+}
+.servicios{
+    display: grid;
+    grid-template-columns: auto;
+    gap: 20px;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+}
+footer{
+    display: grid;
+    grid-template-columns: auto;
+}
+.contacto{
+    display: grid;
+    grid-template-columns: auto;
+    background-color: var(--main-color);
+    color: beige;
+    padding-top: 80px;
+    padding-bottom: 100px;
+    gap: 40px;/*separacion de columnas*/
+    padding-left: 10%;
+}
+.padding-left-50x{
+    padding-left: 5%;
+}
+
+.todo-sobre-el-capibara img{
+    max-width: 100%;
+    border-radius: 10px;
+ }
+}
